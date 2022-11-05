@@ -20,4 +20,5 @@ My LeetCode solutions written in JavaScript
 |35|[Search_Insert_Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](./35_Search_Insert_Position/35_Search_Insert_Position.js)|Easy|
 |58|[Length_of_Last_Word](https://leetcode.com/problems/length-of-last-word/) | [JavaScript](./58_Length_of_Last_Word/58_Length_of_Last_Word.js)|Easy|
 |66|[Plus_One](https://leetcode.com/problems/plus-one/) | [JavaScript](./66_Plus_One/66_Plus_One.js)|Easy|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [JavaScript](./69_Sqrt(x)/69_Sqrt(x).js)|Easy|
 |136|[Single_Number](https://leetcode.com/problems/single-number/) | [JavaScript](./136_Single_Number/136_Single_Number.js)|Easy|
