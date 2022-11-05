@@ -14,3 +14,10 @@ My LeetCode solutions written in JavaScript
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [JavaScript](./9_Palindrome_Number/9_Palindrome_Number.js)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](./13_Roman_to_Integer/13_Roman_to_Integer.js)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JavaScript](./14_Longest_Common_Prefix/14_Longest_Common_Prefix.js)|Easy|
+|20|[Valid_Parentheses](https://leetcode.com/problems/valid-parentheses/) | [JavaScript](./20_Valid_Parentheses/20_Valid_Parentheses.js)|Easy|
+|26|[Remove_Duplicates_from_Sorted_Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](./26_Remove_Duplicates_from_Sorted_Array/26_Remove_Duplicates_from_Sorted_Array.js)|Easy|
+|27|[Remove_Element](https://leetcode.com/problems/remove-element/) | [JavaScript](./27_Remove_Element/27_Remove_Element.js)|Easy|
+|35|[Search_Insert_Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](./35_Search_Insert_Position/35_Search_Insert_Position.js)|Easy|
+|58|[Length_of_Last_Word](https://leetcode.com/problems/length-of-last-word/) | [JavaScript](./58_Length_of_Last_Word/58_Length_of_Last_Word.js)|Easy|
+|66|[Plus_One](https://leetcode.com/problems/plus-one/) | [JavaScript](./66_Plus_One/66_Plus_One.js)|Easy|
+|136|[Single_Number](https://leetcode.com/problems/single-number/) | [JavaScript](./136_Single_Number/136_Single_Number.js)|Easy|
