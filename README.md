@@ -21,6 +21,7 @@ My LeetCode solutions written in JavaScript
 |26|[Remove_Duplicates_from_Sorted_Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](./0026_Remove_Duplicates_from_Sorted_Array/26_Remove_Duplicates_from_Sorted_Array.js)|Easy|
 |27|[Remove_Element](https://leetcode.com/problems/remove-element/) | [JavaScript](./0027_Remove_Element/27_Remove_Element.js)|Easy|
 |35|[Search_Insert_Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](./0035_Search_Insert_Position/35_Search_Insert_Position.js)|Easy|
+|49|[Group_Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [JavaScript](./0049_Group_Anagrams/0049_Group_Anagrams.js)|Medium|
 |50|[Pow(x,n)](https://leetcode.com/problems/powx-n/description/) | [JavaScript](./0050_Pow(x,n)/0050_Pow(x,n).js)|Medium|
 |58|[Length_of_Last_Word](https://leetcode.com/problems/length-of-last-word/) | [JavaScript](./0058_Length_of_Last_Word/58_Length_of_Last_Word.js)|Easy|
 |66|[Plus_One](https://leetcode.com/problems/plus-one/) | [JavaScript](./0066_Plus_One/66_Plus_One.js)|Easy|
