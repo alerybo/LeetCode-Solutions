@@ -17,6 +17,7 @@ My LeetCode solutions written in JavaScript
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](./0013_Roman_to_Integer/13_Roman_to_Integer.js)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JavaScript](./0014_Longest_Common_Prefix/14_Longest_Common_Prefix.js)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/description/) | [JavaScript](./0015_3Sum/0015_3Sum.js)|Medium|
+|16|[3Sum_Closest](https://leetcode.com/problems/3sum-closest/description/) | [JavaScript](./0016_3Sum_Closest/0016_3Sum_Closest.js)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [JavaScript](./0017_Letter_Combinations_of_a_Phone_Number/0017_Letter_Combinations_of_a_Phone_Number.js)|Easy|
 |20|[Valid_Parentheses](https://leetcode.com/problems/valid-parentheses/) | [JavaScript](./0020_Valid_Parentheses/20_Valid_Parentheses.js)|Easy|
 |26|[Remove_Duplicates_from_Sorted_Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](./0026_Remove_Duplicates_from_Sorted_Array/26_Remove_Duplicates_from_Sorted_Array.js)|Easy|
